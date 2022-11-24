@@ -1,0 +1,16 @@
+C:\Users\AnaCoelho\Desktop\C#\Projeto_Final\Projeto_Final\bin\Debug\net5.0\Projeto_Final.exe
+C:\Users\AnaCoelho\Desktop\C#\Projeto_Final\Projeto_Final\bin\Debug\net5.0\Projeto_Final.deps.json
+C:\Users\AnaCoelho\Desktop\C#\Projeto_Final\Projeto_Final\bin\Debug\net5.0\Projeto_Final.runtimeconfig.json
+C:\Users\AnaCoelho\Desktop\C#\Projeto_Final\Projeto_Final\bin\Debug\net5.0\Projeto_Final.runtimeconfig.dev.json
+C:\Users\AnaCoelho\Desktop\C#\Projeto_Final\Projeto_Final\bin\Debug\net5.0\Projeto_Final.dll
+C:\Users\AnaCoelho\Desktop\C#\Projeto_Final\Projeto_Final\bin\Debug\net5.0\Projeto_Final.pdb
+C:\Users\AnaCoelho\Desktop\C#\Projeto_Final\Projeto_Final\obj\Debug\net5.0\Projeto_Final.csproj.AssemblyReference.cache
+C:\Users\AnaCoelho\Desktop\C#\Projeto_Final\Projeto_Final\obj\Debug\net5.0\Projeto_Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AnaCoelho\Desktop\C#\Projeto_Final\Projeto_Final\obj\Debug\net5.0\Projeto_Final.AssemblyInfoInputs.cache
+C:\Users\AnaCoelho\Desktop\C#\Projeto_Final\Projeto_Final\obj\Debug\net5.0\Projeto_Final.AssemblyInfo.cs
+C:\Users\AnaCoelho\Desktop\C#\Projeto_Final\Projeto_Final\obj\Debug\net5.0\Projeto_Final.csproj.CoreCompileInputs.cache
+C:\Users\AnaCoelho\Desktop\C#\Projeto_Final\Projeto_Final\obj\Debug\net5.0\Projeto_Final.dll
+C:\Users\AnaCoelho\Desktop\C#\Projeto_Final\Projeto_Final\obj\Debug\net5.0\refint\Projeto_Final.dll
+C:\Users\AnaCoelho\Desktop\C#\Projeto_Final\Projeto_Final\obj\Debug\net5.0\Projeto_Final.pdb
+C:\Users\AnaCoelho\Desktop\C#\Projeto_Final\Projeto_Final\obj\Debug\net5.0\Projeto_Final.genruntimeconfig.cache
+C:\Users\AnaCoelho\Desktop\C#\Projeto_Final\Projeto_Final\obj\Debug\net5.0\ref\Projeto_Final.dll
