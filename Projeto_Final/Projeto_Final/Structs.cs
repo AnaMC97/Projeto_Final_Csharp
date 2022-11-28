@@ -10,8 +10,8 @@ namespace Projeto_Final
     {
         struct Morada
         {
-            public int Endereço { get; set; }
-            public int Cod_Postal { get; set; }
+            public static int Endereço { get; set; }
+            public static int Cod_Postal { get; set; }
         }
         struct Telefone
         {
